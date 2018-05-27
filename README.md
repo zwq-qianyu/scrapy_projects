@@ -5,9 +5,6 @@
 <h3><center>sina、renren、dangdang</center></h3>
 
 1. 运行sina时先进入sina目录，然后执行: scrapy crawl sina
-效果如下：
-
-<img src="../show_img/sina.png">
 
 2. 进入renren爬虫项目文件后，爬虫运行命令: scrapy crawl login
    运行中如果产生验证码，请到项目文件中找到check.jpg，输入验证码后回车即可。
