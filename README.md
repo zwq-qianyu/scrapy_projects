@@ -12,6 +12,7 @@
 3. 运行dangdang时，先进入该目录下，然后项目文件中的需要导入pybook.sql数据库  最后执行：scrapy crawl pybook
 
 <h3>效果图：<h3>
-效果图请到本项目的`show_img`目录下查看，共3张图片：
+
+效果图请到本项目的 show_img 目录下查看，共3张图片：
 sina、renren、dangdang
-分别对应`sina、renren、dangdang`三个项目。
+分别对应 sina、renren、dangdang 三个项目。
